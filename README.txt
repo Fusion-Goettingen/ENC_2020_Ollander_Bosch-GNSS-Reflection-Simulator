@@ -11,7 +11,7 @@ Further information:
 http://www.fusion.informatik.uni-goettingen.de
 https://github.com/Fusion-Goettingen
 
-Source code written by Simon Ollander, Bosch Car Multimedia / University of Göttingen
+Source code written by Simon Ollander, Bosch Car Multimedia / University of GÃ¶ttingen
 
 To start the software, run the file Code/main.m and execute all steps
 
@@ -19,4 +19,4 @@ Temporary results are stored in the Data_temp folder, so that all the steps do n
 
 Results are stored in the Results folder
 
-The rangning codes should be stored in the RangingCodes folders. They can be accessed at, e.g., https://github.com/danipascual/GNSS-matlab/tree/master/prn_codes
+The ranging codes should be stored in the RangingCodes folders. They can be accessed at, e.g., https://github.com/danipascual/GNSS-matlab/tree/master/prn_codes
